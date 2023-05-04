@@ -1,8 +1,8 @@
 <body>
   <div>
     <div>
-      <a href="https://github.com/JaeSeoKim/badge42">
-        <img src="https://badge42.vercel.app/api/v2/cl9gs40hi00540hl4ml1s4fw0/stats?cursusId=21&coalitionId=206" alt="pramos-m's 42 stats" />
+     <a href="https://github.com/JaeSeoKim/badge42">
+	     <img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/stats?cursusId=21&coalitionId=205" alt="pramos-m's 42 stats" /></a>
       </a>
     </div>	
     </br>
