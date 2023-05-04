@@ -58,7 +58,7 @@
 	</a>
     </div>
     <div>
-      <h2><a id="FdF" href="https://github.com/eralonso/Pipex" target="_blank">Pipex</a></h2>
+      <h2><a id="FdF" href="https://github.com/eralonso/Pipex" target="_blank">FdF</a></h2>
     </div>
     <div>
      <a href="https://github.com/JaeSeoKim/badge42">
