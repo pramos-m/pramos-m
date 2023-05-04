@@ -50,7 +50,7 @@
     </div>
     </br>
     <div>
-      <h2><a id="minitalk" href="https://github.com/eralonso/Pipex" target="_blank">Pipex</a></h2>
+      <h2><a id="minitalk" href="https://github.com/eralonso/Pipex" target="_blank">Minitalk</a></h2>
     </div>
     <div>
      <a href="https://github.com/JaeSeoKim/badge42">
