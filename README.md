@@ -1,6 +1,9 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/stats?cursusId=21&coalitionId=205" alt="pramos-m's 42 stats" /></a>
 
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/2784187" alt="pramos-m's 42 Libft Score" /></a>
+
+
 <!--
 **pramos-m/pramos-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
