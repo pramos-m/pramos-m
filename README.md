@@ -1,4 +1,3 @@
-### Hi there 👋
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/stats?cursusId=21&coalitionId=205" alt="pramos-m's 42 stats" /></a>
 
 
