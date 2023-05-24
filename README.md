@@ -76,7 +76,7 @@
     </div>
     </br>
     <div>
-      <h2><a id="FdF" href="https://github.com/pramos-m/Philosophers" target="_blank">FdF</a></h2>
+      <h2><a id="FdF" href="https://github.com/pramos-m/Philosophers" target="_blank">Philosophers</a></h2>
     </div>
     <div>
      <a href="https://github.com/JaeSeoKim/badge42">
