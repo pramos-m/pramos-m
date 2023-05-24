@@ -14,7 +14,7 @@
     </div>
     </br>
     <div>
-      <h2><a id="ft_printf" href="https://github.com/eralonso/FT_Printf" target="_blank">FT_Printf</a></h2>
+      <h2><a id="ft_printf" href="https://github.com/pramos-m/printf" target="_blank">FT_Printf</a></h2>
     </div>
     <div>
 	<a href="https://github.com/JaeSeoKim/badge42">
@@ -23,7 +23,7 @@
     </div>
     </br>
     <div>
-      <h2><a id="get_next_line" href="https://github.com/eralonso/Get_Next_Line" target="_blank">Get_Next_Line</a></h2>
+      <h2><a id="get_next_line" href="https://github.com/pramos-m/get_next_line" target="_blank">Get_Next_Line</a></h2>
     </div>
     <div>
       <a href="https://github.com/JaeSeoKim/badge42">
@@ -41,7 +41,7 @@
     </div>
     </br>
     <div>
-      <h2><a id="push_swap" href="https://github.com/eralonso/Push_Swap" target="_blank">Push_Swap</a></h2>
+      <h2><a id="push_swap" href="https://github.com/pramos-m/push_swap" target="_blank">Push_Swap</a></h2>
     </div>
     <div>
       <a href="https://github.com/JaeSeoKim/badge42">
@@ -50,7 +50,7 @@
     </div>
     </br>
     <div>
-      <h2><a id="minitalk" href="https://github.com/eralonso/Pipex" target="_blank">Minitalk</a></h2>
+      <h2><a id="minitalk" href="https://github.com/pramos-m/minitalk" target="_blank">Minitalk</a></h2>
     </div>
     <div>
      <a href="https://github.com/JaeSeoKim/badge42">
@@ -58,7 +58,7 @@
 	</a>
     </div>
     <div>
-      <h2><a id="FdF" href="https://github.com/eralonso/Pipex" target="_blank">FdF</a></h2>
+      <h2><a id="FdF" href="https://github.com/pramos-m/FdF" target="_blank">FdF</a></h2>
     </div>
     <div>
      <a href="https://github.com/JaeSeoKim/badge42">
@@ -75,6 +75,14 @@
 	</a>
     </div>
     </br>
+    <div>
+      <h2><a id="FdF" href="https://github.com/pramos-m/Philosophers" target="_blank">FdF</a></h2>
+    </div>
+    <div>
+     <a href="https://github.com/JaeSeoKim/badge42">
+	     <img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/3081205" alt="pramos-m's 42 Philosophers Score" />
+	</a>
+    </div>
   </div>
 </body>
 <!--
