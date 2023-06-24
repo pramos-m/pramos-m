@@ -84,7 +84,7 @@
 	</a>
     </div>
   <div>
-	  <h2>Minishell</h2>
+	  <h2><a href="https://github.com/eralonso/Minishell">Minishell</h2>
   </div>
   <div>
 	  <a href="https://github.com/JaeSeoKim/badge42">
