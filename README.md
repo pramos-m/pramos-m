@@ -1,13 +1,12 @@
 <body>
-  <div>
-	 <div style="text-align: center;">
+  <div style="text-align: center;">
     <h1 style="font-family: Arial, sans-serif; font-size: 24px; color: #333; margin-bottom: 10px;">Mi perfil en 42</h1>
     <div>
      <a href="https://github.com/JaeSeoKim/badge42">
 	     <img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/stats?cursusId=21&coalitionId=205" alt="pramos-m's 42 stats" /></a>
       </a>
     </div>
-     </br>
+    </br>
     <div>
       <h2><a id="libft" href="https://github.com/pramos-m/Libft" target="_blank">Libft</a></h2>
     </div>
