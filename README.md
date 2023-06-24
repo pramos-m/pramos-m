@@ -1,5 +1,5 @@
 <body>
-    <div style="center">
+    <div style="margin: 0 auto; text-align: center;">
 	<h1 style="font-family: Arial, sans-serif; font-size: 24px; color: #333; margin-bottom: 10px;">Mi perfil en 42</h1>
 	<div>
 	<a href="https://github.com/JaeSeoKim/badge42">
