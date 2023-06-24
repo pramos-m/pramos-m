@@ -1,22 +1,28 @@
 <body>
-    <div style="text-align: center;">
-	<h1>Mi perfil en 42</h1>
-	<div>
+    <div>
+	<h1 align="center">My 42 profile</h1>
+	<div align="center">
 	<a href="https://github.com/JaeSeoKim/badge42">
-	     <img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/stats?cursusId=21&coalitionId=205" alt="pramos-m's 42 stats" /></a>
+	     <img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/stats?cursusId=21&coalitionId=205" alt="pramos-m's 42 stats"/></a>
 	</a>
 	</div>
     </div>
     </br>
+	<div  align="center">
+		<h2>Common Core 00</h2>
+	</div>
     <div>
-      <h2><a id="libft" href="https://github.com/pramos-m/Libft" target="_blank">Libft</a></h2>
+      <h3><a id="libft" href="https://github.com/pramos-m/Libft" target="_blank">Libft</a></h3>
     </div>
     <div>
       <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/2784187" alt="pramos-m's 42 Libft Score" /></a>
     </div>
+	<div  align="center">
+		<h2>Common Core 01</h2>
+	</div>
     </br>
     <div>
-      <h2><a id="ft_printf" href="https://github.com/pramos-m/printf" target="_blank">FT_Printf</a></h2>
+      <h3><a id="ft_printf" href="https://github.com/pramos-m/printf" target="_blank">FT_Printf</a></h3>
     </div>
     <div>
 	<a href="https://github.com/JaeSeoKim/badge42">
@@ -25,7 +31,7 @@
     </div>
     </br>
     <div>
-      <h2><a id="get_next_line" href="https://github.com/pramos-m/get_next_line" target="_blank">Get_Next_Line</a></h2>
+      <h3><a id="get_next_line" href="https://github.com/pramos-m/get_next_line" target="_blank">Get_Next_Line</a></h3>
     </div>
     <div>
       <a href="https://github.com/JaeSeoKim/badge42">
@@ -34,7 +40,7 @@
     </div>
     </br>
     <div>
-      <h2>Born2beroot</h2>
+      <h3>Born2beroot</h3>
     </div>
     <div>
       <a href="https://github.com/JaeSeoKim/badge42">
@@ -42,8 +48,11 @@
       </a>
     </div>
     </br>
+	<div  align="center">
+	<h2>Common Core 02</h2>
+	</div>
     <div>
-      <h2><a id="push_swap" href="https://github.com/pramos-m/push_swap" target="_blank">Push_Swap</a></h2>
+      <h3><a id="push_swap" href="https://github.com/pramos-m/push_swap" target="_blank">Push_Swap</a></h3>
     </div>
     <div>
       <a href="https://github.com/JaeSeoKim/badge42">
@@ -52,7 +61,7 @@
     </div>
     </br>
     <div>
-      <h2><a id="minitalk" href="https://github.com/pramos-m/minitalk" target="_blank">Minitalk</a></h2>
+      <h3><a id="minitalk" href="https://github.com/pramos-m/minitalk" target="_blank">Minitalk</a></h3>
     </div>
     <div>
      <a href="https://github.com/JaeSeoKim/badge42">
@@ -78,7 +87,7 @@
     </div>
     </br>
     <div>
-      <h2><a id="FdF" href="https://github.com/pramos-m/Philosophers" target="_blank">Philosophers</a></h2>
+      <h3><a id="FdF" href="https://github.com/pramos-m/Philosophers" target="_blank">Philosophers</a></h3>
     </div>
     <div>
      <a href="https://github.com/JaeSeoKim/badge42">
@@ -86,7 +95,7 @@
 	</a>
     </div>
   <div>
-	  <h2><a href="https://github.com/pramos-m/Minishell">Minishell</h2>
+	  <h3><a href="https://github.com/pramos-m/Minishell">Minishell</h3>
   </div>
   <div>
 	  <a href="https://github.com/JaeSeoKim/badge42">
