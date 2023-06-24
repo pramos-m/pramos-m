@@ -9,7 +9,7 @@
     </div>
     </br>
 	<div  align="center">
-		<h2>Common Core 00</h2>
+		<h2>Common Core 00 👣</h2>
 	</div>
     <div align="center">
       <h3><a id="libft" href="https://github.com/pramos-m/Libft" target="_blank">Libft</a></h3>
@@ -19,7 +19,7 @@
     </div>
 	    </br>
 	<div  align="center">
-		<h2>Common Core 01</h2>
+		<h2>Common Core 01 ⌨️</h2>
 	</div>
     <div align="center">
       <h3><a id="ft_printf" href="https://github.com/pramos-m/printf" target="_blank">FT_Printf</a></h3>
@@ -49,7 +49,7 @@
     </div>
     </br>
 	<div  align="center">
-	<h2>Common Core 02</h2>
+	<h2>Common Core 02 🌐</h2>
 	</div>
     <div align="center">
       <h3><a id="push_swap" href="https://github.com/pramos-m/push_swap" target="_blank">Push_Swap</a></h3>
@@ -87,7 +87,7 @@
     </div>
     </br>
 	<div  align="center">
-	<h2>Common Core 03</h2>
+	<h2>Common Core 03 🐚 </h2>
 	</div>
     <div align="center">
       <h3><a id="FdF" href="https://github.com/pramos-m/Philosophers" target="_blank">Philosophers</a></h3>
