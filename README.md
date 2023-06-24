@@ -83,6 +83,13 @@
 	     <img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/3081205" alt="pramos-m's 42 Philosophers Score" />
 	</a>
     </div>
+  <div>
+	  <h2>Minishell</h2>
+  </div>
+  <div>
+	  <a href="https://github.com/JaeSeoKim/badge42">
+	<img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/3085167" alt="pramos-m's 42 minishell Score" />
+  </div>
   </div>
 </body>
 <!--
