@@ -90,7 +90,7 @@
 	<h2>Common Core 03 🐚 </h2>
 	</div>
     <div align="center">
-      <h3><a id="FdF" href="https://github.com/pramos-m/Philosophers" target="_blank">Philosophers</a></h3>
+      <h3><a id="Philosophers" href="https://github.com/pramos-m/Philosophers" target="_blank">Philosophers</a></h3>
     </div>
     <div align="center">
      <a href="https://github.com/JaeSeoKim/badge42">
@@ -104,6 +104,14 @@
 	  <a href="https://github.com/JaeSeoKim/badge42">
 	<img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/3085167" alt="pramos-m's 42 minishell Score" />
   </div>
+  <div align="center">
+	  <h3><a href="https://github.com/pramos-m/Minishell">Exam Rank 03</h3>
+  </div>
+<div align="center">
+	<a href="https://github.com/JaeSeoKim/badge42">
+		<img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/3114203" alt="pramos-m's 42 Exam Rank 03 Score" />
+	</a>
+</div>
   </div>
 </body>
 <!--
