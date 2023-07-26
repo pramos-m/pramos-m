@@ -105,7 +105,7 @@
 	<img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/3085167" alt="pramos-m's 42 minishell Score" />
   </div>
   <div align="center">
-	  <h3><a href="https://github.com/pramos-m/Minishell">Exam Rank 03</h3>
+	  <h3>Exam Rank 03</h3>
   </div>
 <div align="center">
 	<a href="https://github.com/JaeSeoKim/badge42">
