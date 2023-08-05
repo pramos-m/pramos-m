@@ -119,7 +119,7 @@
   </div>
   <div>
 	<div align="center">
-      <h3>Net Practice</h3>
+      <h3><a href="https://github.com/pramos-m/NetPractice"></a>Net Practice</h3>
   </div>
   <div align="center">
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/3153403" alt="pramos-m's 42 NetPractice Score" />
