@@ -117,9 +117,8 @@
 <div align="center">
     <h2>Common Core 04 🌀</h2>
   </div>
-  <div>
-	<div align="center">
-      <h3><a href="https://github.com/pramos-m/NetPractice"></a>Net Practice</h3>
+  <div align="center">
+    <h3><a id="NetPractice" href="https://github.com/pramos-m/NetPractice" target="_blank">Net Practice</a></h3>
   </div>
   <div align="center">
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/3153403" alt="pramos-m's 42 NetPractice Score" />
