@@ -124,18 +124,24 @@
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/3153403" alt="pramos-m's 42 NetPractice Score" />
 	</a>
   </div>
-	  <div>
 	<div align="center">
-      <h3>CPP Module 00</h3>
+       <h3><a id="CPPModule00" href="https://github.com/pramos-m/CPP-Module-00" target="_blank">CPP Module 00</a></h3>
   </div>
   <div align="center">
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/3190975" alt="pramos-m's CPP Module 00 Score" /></a>
   </div>
-	<div align="center">
-      <h3>CPP Module 01</h3>
+<div align="center">
+       <h3><a id="CPPModule01" href="https://github.com/pramos-m/CPP-Module-01" target="_blank">CPP Module 01</a></h3>
   </div>
   <div align="center">
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/3200195" alt="pramos-m's 42 CPP Module 00 Score" /></a>
+  </div>
+  </div>
+	<div align="center">
+       <h3><a id="CPPModule02" href="https://github.com/pramos-m/CPP-Module-02" target="_blank">CPP Module 02</a></h3>
+  </div>
+  <div align="center">
+	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/3190975" alt="pramos-m's CPP Module 00 Score" /></a>
   </div>
 <div align="center">
       <h3>Exam Rank 04</h3>
