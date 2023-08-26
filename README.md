@@ -190,7 +190,7 @@
 	<a href="https://github.com/JaeSeoKim/badge42">
     <!--<img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/3190975" alt="pramos-m's 42 Exam Rank 04 Score" />-->
     <h4>In progress 📈</h4>
-    <img src="src/img/registered.PNG" height="30">
+    <img src="src/img/suscribed.jpg" height="30">
   </a>
   </div>
   </div>
