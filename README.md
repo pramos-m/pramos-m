@@ -1,6 +1,5 @@
   <div align="center">
     <h1 align="center">My 42 profile</h1>
-	  <>
     <div align="center">
       <a href="https://github.com/JaeSeoKim/badge42">
     	<img src="src/img/pramos-mprofile.svg" height="30">	
