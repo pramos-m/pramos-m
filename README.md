@@ -2,7 +2,7 @@
     <h1 align="center">My 42 profile</h1>
     <div align="center">
       <a href="https://github.com/JaeSeoKim/badge42">
-    	<img src="src/img/pramos-mprofile.svg" height="30">	
+    	<img src="src/img/pramos-mprofile.svg" height="275">	
         <!--<img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/stats?cursusId=21&coalitionId=205" alt="pramos-m's 42 stats"/>~ -->
       </a>
     </div>
