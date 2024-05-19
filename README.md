@@ -190,7 +190,7 @@
   <div align="center">
 	<a href="https://github.com/JaeSeoKim/badge42">
     <!--<img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/project/3190975" alt="pramos-m's 42 Exam Rank 04 Score" />-->
-    <img src="src/img/suscribed.jpg" height="30">
+    <img src="src/img/100_100.jpg" height="30">
   </a>
   </div>
   </div>
@@ -202,12 +202,12 @@
 **pramos-m/pramos-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on Inception and CPP Modules 05-09!!
+- 🌱 I’m currently learning Docker
+- 👯 I’m looking to collaborate on Transcendense
+- 💬 Ask me about anything you need!
+- 📫 How to reach me: 
+	- Linkedin🔌https://www.linkedin.com/in/pol-ramos/
+	- Intra 42: https://profile.intra.42.fr/users/pramos-m
 - ⚡ Fun fact: ...
 -->
