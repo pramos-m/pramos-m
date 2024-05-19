@@ -1,5 +1,6 @@
   <div align="center">
-    <h1 align="center">My 42 profile</h1>
+    <h1 align="center">Hi, I'm Pol!</h1>
+	<h1 align="center">This is my 42 profile!</h1>
     <div align="center">
       <a href="https://github.com/JaeSeoKim/badge42">
     	<img src="src/img/pramos-mprofile.svg" height="275">	
@@ -196,6 +197,17 @@
   </div>
 </div>
 </body>
+
+
+## ▪️ Contact me 📥
+
+Email: pramos-m@student.42barcelona.com
+
+<a href='mailto:pramos-m@student.42barcelona.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
+</a>
+
+<a href='https://www.linkedin.com/in/pol-ramos/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+</a>
 
 <!--
 
