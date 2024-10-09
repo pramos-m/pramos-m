@@ -13,8 +13,6 @@
   <h1>Pong Demonium</h1>
   <h3><a href="https://github.com/pramos-m/PongDemonium/tree/main" target="_blank">In progress</a></h3>
   <div align="center">
-    <img width="100" alt="image" src="">
-    <img width="100" alt="image" src="">
   </div>
 </div>
 
@@ -23,7 +21,6 @@
 <div align="center">
   <div>
     <h1>42 Barcelona Common Core</h1>
-    <h3><a href="https://github.com/pramos-m/42Barcelona" target="_blank">Projects 📚</a></h3>
   </div>
 <div align="center">
 
@@ -45,10 +42,13 @@
 | Inception | 09 | <img src="https://img.shields.io/badge/status-done-success?style=flat-square" /> | <img src="https://img.shields.io/github/languages/top/pramos-m/Inception?style=flat-square" /> | <img src="https://img.shields.io/badge/score-125%20%2F%20100%20%E2%98%85-9cf?style=flat-square" /> | <img src="https://img.shields.io/github/last-commit/pramos-m/Inception?style=flat-square" /> |
 </div>
 
-## :octocat: About Me:
-Ambitious and hardworking, able to quickly learn new skills and methods while efficiently applying previously acquired knowledge.
-- 👨🏻‍💻 CFGS on App Development, 42 Barcelona Software Engineering Student 
-- :robot: Currently finishing final Project in both while learning about IA, Algo, & Data
-- :memo: Entrepreneur, Developing MVP for SeedRound
-- :mailbox_with_mail: Contact: Reach me out at LinkedIn or email me at pramos-m@student.42barcelona.com
-
+<div align="center">
+  <h2>:octocat: About Me:</h2>
+  <p>Ambitious and hardworking, able to quickly learn new skills and methods while efficiently applying previously acquired knowledge.</p>
+  <ul align="left">
+    <li>👨🏻‍💻 CFGS on App Development, 42 Barcelona Software Engineering Student</li>
+    <li>🤖 Currently finishing final project in both while learning about AI, Algo, & Data</li>
+    <li>✍️ Entrepreneur, developing MVP for SeedRound</li>
+    <li>📬 Contact: Reach me on LinkedIn or email me at pramos-m@student.42barcelona.com</li>
+  </ul>
+</div>
