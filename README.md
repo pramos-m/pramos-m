@@ -1,5 +1,5 @@
 <a href="https://fabos.dev/en" target="_blank">
-  <img width="1834" alt="pramos-m" src="https://github.com/pramos-m/pramos-m/assets/your-image-id">
+  <img width="1834" alt="pramos-m" src="https://github.com/pramos-m/pramos-m/readme/src/image_logo">
 </a>
 
 <div align="center">
@@ -43,13 +43,12 @@
 | CPP Module 09 | 09 | <img src="https://img.shields.io/badge/status-done-success?style=flat-square" /> | <img src="https://img.shields.io/github/languages/top/pramos-m/CPP-Module-09?style=flat-square" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success?style=flat-square" /> | <img src="https://img.shields.io/github/last-commit/pramos-m/CPP-Module-09?style=flat-square" /> |
 | Webserv | 09 | <img src="https://img.shields.io/badge/status-done-success?style=flat-square" /> | <img src="https://img.shields.io/github/languages/top/pramos-m/webserv?style=flat-square" /> | <img src="https://img.shields.io/badge/score-125%20%2F%20100%20%E2%98%85-9cf?style=flat-square" /> | <img src="https://img.shields.io/github/last-commit/pramos-m/webserv?style=flat-square" /> |
 | Inception | 09 | <img src="https://img.shields.io/badge/status-done-success?style=flat-square" /> | <img src="https://img.shields.io/github/languages/top/pramos-m/Inception?style=flat-square" /> | <img src="https://img.shields.io/badge/score-125%20%2F%20100%20%E2%98%85-9cf?style=flat-square" /> | <img src="https://img.shields.io/github/last-commit/pramos-m/Inception?style=flat-square" /> |
+</div>
 
 ## :octocat: About Me:
 Ambitious and hardworking, able to quickly learn new skills and methods while efficiently applying previously acquired knowledge.
+- 👨🏻‍💻 CFGS on App Development, 42 Barcelona Software Engineering Student 
+- :robot: Currently finishing final Project in both while learning about IA, Algo, & Data
+- :memo: Entrepreneur, Developing MVP for SeedRound
+- :mailbox_with_mail: Contact: Reach me out at LinkedIn or email me at pramos-m@student.42barcelona.com
 
-
-
-- 👨🏻‍💻 CFGS DAM 
-- :robot: 
-- :memo: 
-- :handshake: 
