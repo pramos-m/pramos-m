@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/pol-ramos/" target="_blank">
-  <img width="1834" alt="pramos-m" src="https://github.com/pramos-m/pramos-m/readme/src/image_logo">
+  <img width="1834" alt="pramos-m" src="https://github.com/pramos-m/pramos-m/blob/main/src/img/image_logo.png">
 </a>
 
 <div align="center">
