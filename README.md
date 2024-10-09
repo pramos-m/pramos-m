@@ -1,4 +1,4 @@
-<a href="https://fabos.dev/en" target="_blank">
+<a href="https://www.linkedin.com/in/pol-ramos/" target="_blank">
   <img width="1834" alt="pramos-m" src="https://github.com/pramos-m/pramos-m/readme/src/image_logo">
 </a>
 
