@@ -7,7 +7,7 @@
     <img src="src/img/pramos-mprofile.svg" height="275">
     <!--<img src="https://badge42.vercel.app/api/v2/clh7v53ya001608l7laa95dsn/stats?cursusId=21&coalitionId=205" alt="pramos-m's 42 stats"/>~ -->
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramos-m&theme=tokyonight" alt="Top Langs">
+  <img height="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramos-m&theme=tokyonight" alt="Top Langs">
 </div>
 <div align="center">
   <h1>Pong Demonium</h1>
