@@ -10,8 +10,8 @@
   <img height="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramos-m&theme=tokyonight" alt="Top Langs">
 </div>
 <div align="center">
-  <h1>Pong Demonium</h1>
-  <h3><a href="https://github.com/pramos-m/PongDemonium/tree/main" target="_blank">In progress</a></h3>
+  <h1>ft_transcendance</h1>
+  <h3><a href="https://github.com/plinscho/ft_transcendance/tree/master" target="_blank">In progress</a></h3>
   <div align="center">
   </div>
 </div>
