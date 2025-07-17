@@ -11,7 +11,7 @@
 </div>
 <div align="center">
   <h1>ft_transcendance</h1>
-  <h3><a href="https://github.com/plinscho/ft_transcendance/tree/master" target="_blank">In progress</a></h3>
+  <h3><a href="https://github.com/plinscho/ft_transcendance/tree/master" target="_blank">Finished ✅</a></h3>
   <div align="center">
   </div>
 </div>
