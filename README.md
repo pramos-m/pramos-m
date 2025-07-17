@@ -11,7 +11,7 @@
 </div>
 <div align="center">
   <h1>ft_transcendance</h1>
-  <h3><a href="https://github.com/plinscho/ft_transcendance/tree/master" target="_blank">Finished ✅</a></h3>
+  <h3><a href="https://github.com/plinscho/ft_transcendance" target="_blank">Finished ✅</a></h3>
   <div align="center">
   </div>
 </div>
@@ -38,8 +38,9 @@
 |<a href="https://github.com/pramos-m/NetPractice" target="_blank"/> NetPractice | 03 | <img src="https://img.shields.io/badge/status-done-success?style=flat-square" /> | <img src="https://img.shields.io/github/languages/top/pramos-m/NetPractice?style=flat-square" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success?style=flat-square" /> | <img src="https://img.shields.io/github/last-commit/pramos-m/NetPractice?style=flat-square" /> |
 |<a href="https://github.com/pramos-m/CPP-Module-04" target="_blank"/> CPP Module 04 | 04 | <img src="https://img.shields.io/badge/status-done-success?style=flat-square" /> | <img src="https://img.shields.io/github/languages/top/pramos-m/CPP-Module-04?style=flat-square" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success?style=flat-square" /> | <img src="https://img.shields.io/github/last-commit/pramos-m/CPP-Module-04?style=flat-square" /> |
 |<a href="https://github.com/pramos-m/CPP-Module-09" target="_blank"/> CPP Module 09 | 09 | <img src="https://img.shields.io/badge/status-done-success?style=flat-square" /> | <img src="https://img.shields.io/github/languages/top/pramos-m/CPP-Module-09?style=flat-square" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success?style=flat-square" /> | <img src="https://img.shields.io/github/last-commit/pramos-m/CPP-Module-09?style=flat-square" /> |
-|<a href="https://github.com/pramos-m/webserv" target="_blank"/> Webserv | 09 | <img src="https://img.shields.io/badge/status-done-success?style=flat-square" /> | <img src="https://img.shields.io/github/languages/top/pramos-m/webserv?style=flat-square" /> | <img src="https://img.shields.io/badge/score-125%20%2F%20100%20%E2%98%85-9cf?style=flat-square" /> | <img src="https://img.shields.io/github/last-commit/pramos-m/webserv?style=flat-square" /> |
-|<a href="https://github.com/pramos-m/Inception" target="_blank"/> Inception | 09 | <img src="https://img.shields.io/badge/status-done-success?style=flat-square" /> | <img src="https://img.shields.io/github/languages/top/pramos-m/Inception?style=flat-square" /> | <img src="https://img.shields.io/badge/score-125%20%2F%20100%20%E2%98%85-9cf?style=flat-square" /> | <img src="https://img.shields.io/github/last-commit/pramos-m/Inception?style=flat-square" /> |
+|<a href="https://github.com/pramos-m/webserv" target="_blank"/> Webserv | 05 | <img src="https://img.shields.io/badge/status-done-success?style=flat-square" /> | <img src="https://img.shields.io/github/languages/top/pramos-m/webserv?style=flat-square" /> | <img src="https://img.shields.io/badge/score-125%20%2F%20100%20%E2%98%85-9cf?style=flat-square" /> | <img src="https://img.shields.io/github/last-commit/pramos-m/webserv?style=flat-square" /> |
+|<a href="https://github.com/pramos-m/Inception" target="_blank"/> Inception | 05 | <img src="https://img.shields.io/badge/status-done-success?style=flat-square" /> | <img src="https://img.shields.io/github/languages/top/pramos-m/Inception?style=flat-square" /> | <img src="https://img.shields.io/badge/score-125%20%2F%20100%20%E2%98%85-9cf?style=flat-square" /> | <img src="https://img.shields.io/github/last-commit/pramos-m/Inception?style=flat-square" /> |
+|<a href="https://github.com/plsincho/ft_transcendance" target="_blank"/> ft_transcendence | 06 | <img src="https://img.shields.io/badge/status-done-success?style=flat-square" /> | <img src="https://img.shields.io/github/languages/top/pramos-m/Inception?style=flat-square" /> | <img src="https://img.shields.io/badge/score-125%20%2F%20100%20%E2%98%85-9cf?style=flat-square" /> | <img src="https://img.shields.io/github/last-commit/pramos-m/Inception?style=flat-square" /> |
 </div>
 
 <div align="center">
