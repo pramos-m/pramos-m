@@ -47,8 +47,8 @@
   <h2>:octocat: About Me:</h2>
   <p>Ambitious and hardworking, able to quickly learn new skills and methods while efficiently applying previously acquired knowledge.</p>
   <ul align="left">
-    <li>👨🏻‍💻 CFGS on App Development, 42 Barcelona Software Engineering Student</li>
-    <li>🤖 Currently finishing final project in both while learning about AI, Algo, & Data</li>
+    <li>👨🏻‍💻 CFGS on App Development, 42 Barcelona Software Engineering Alumni</li>
+    <li>🤖 Currently deep diving into AI, Algorithms, & Data Science</li>
     <li>✍️ Entrepreneur, developing MVP for SeedRound</li>
     <li>📬 Contact: Reach me on LinkedIn or email me at pramos-m@student.42barcelona.com</li>
   </ul>
